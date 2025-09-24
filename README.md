@@ -5,7 +5,7 @@ A simple OTP  generator project.
 ## Features
 
 - Generate secure OTPs for authentication or verification purposes.
-- Built using HTML (can be easily extended with JavaScript or backend logic).
+- Built using HTML Css and JavaScript
 - Ready to use as a UI component for login, signup, or two-factor authentication flows.
 
 ## Getting Started
@@ -35,4 +35,4 @@ This project is open source. Add your preferred license in the repository.
 
 **Project Link:** [https://github.com/vatsal-panchal/otp-generator](https://github.com/vatsal-panchal/otp-generator)
 
-**Live link:**  (https://vatsal-panchal.github.io/otp-generator/)
+**Live link:**  https://vatsal-panchal.github.io/otp-generator/
