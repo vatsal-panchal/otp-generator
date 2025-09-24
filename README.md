@@ -34,4 +34,5 @@ This project is open source. Add your preferred license in the repository.
 ---
 
 **Project Link:** [https://github.com/vatsal-panchal/otp-generator](https://github.com/vatsal-panchal/otp-generator)
-live link : https://vatsal-panchal.github.io/otp-generator/
+
+**Live link:**  (https://vatsal-panchal.github.io/otp-generator/)
